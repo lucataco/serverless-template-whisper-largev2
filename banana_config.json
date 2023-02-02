@@ -1,5 +1,5 @@
 {
-    "name": "Whisper Largev1",
+    "name": "Whisper Largev2",
     "category": "Audio",
     "example_input": {"mp3BytesString": "<BASE64_STRING>"},
     "example_output": {"text": "That's one small step for man, one giant leap for mankind."},
